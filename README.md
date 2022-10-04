@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on getting my AWS Solutions Architect Professional Certification
 - 🌱 I’m currently learning data analytics in python
 - 👯 I’m looking to collaborate on web and mobile apps

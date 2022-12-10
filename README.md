@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on getting my AWS Solutions Architect Professional Certification
-- 🌱 I’m currently learning data analytics in python
+- 🌱 I’m currently learning data analytics and Machine Learning with pandas and Microsoft Azure Machine Learning Studio
 - 👯 I’m looking to collaborate on web and mobile apps
 - 💬 Ask me about AWS!
 

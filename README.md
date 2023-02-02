@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on getting my AWS Solutions Architect Professional Certification
+- 🔭 I’m currently working on getting the AWS SAA-C01, Network+, and Security+ certifications
 - 🌱 I’m currently learning ASP.Net Core / C# and Cybersecurity
 - 👯 I’m looking to collaborate on web and mobile apps
 - 💬 Ask me about AWS!

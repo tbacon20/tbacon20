@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on getting the AWS SAA, Network+, and Security+ certifications
-- 🌱 I’m currently learning ASP.Net Core / C# and Cybersecurity
+- 🔭 I’m currently working on getting the AWS SAA Certification
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on web and mobile apps
 - 💬 Ask me about AWS!
 

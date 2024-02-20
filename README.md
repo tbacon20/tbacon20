@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on getting the AWS SAA Certification
-- 🌱 I’m currently learning React Native
+- 🔭 AWS Solutions Architect Associate certified
+- 🌱 I’m currently learning React Native and creating highly available and decoupled full stack apps on AWS
 - 👯 I’m looking to collaborate on web and mobile apps
 - 💬 Ask me about AWS!
 

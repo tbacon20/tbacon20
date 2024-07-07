@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 AWS Solutions Architect Associate certified
-- 🌱 I’m currently learning React Native and creating highly available and decoupled full stack apps on AWS
+- 🔭 4X AWS Certified
+- 🌱 I'm currently working on React full-stack apps hosted on AWS
 - 👯 I’m looking to collaborate on web and mobile apps
 - 💬 Ask me about AWS!
 

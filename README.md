@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 4X AWS Certified
-- 🌱 I'm currently working on React full-stack apps hosted on AWS
+- 🌱 I'm currently working on React and Flutter full-stack apps hosted on AWS
 - 👯 I’m looking to collaborate on web and mobile apps
 - 💬 Ask me about AWS!
 
